@@ -36,8 +36,8 @@ namespace CheckingExecution
 
             // CHECKING IF DIRECTORY EXISTS & CREATING IF IT DOES NOT
 
-            string newPath = @"D:\Practice\C#\CheckingExecution\FolderA\SubfolderAB";
             /*
+            string newPath = @"D:\Practice\C#\CheckingExecution\FolderA\SubfolderAB";
             bool directoryExists = Directory.Exists(newPath);
             if(directoryExists)
             {
